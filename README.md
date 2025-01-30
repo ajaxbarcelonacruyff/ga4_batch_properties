@@ -1,6 +1,4 @@
-# ga4_batch_properties
-Streamlining GA4 Setup: Create Accounts, Properties &amp; Custom Dimensions in Google Sheets
-
+# Streamlining GA4 Setup: Create Accounts, Properties &amp; Custom Dimensions in Google Sheets
 
 # GA4 Configuration is Very Confusing
 When creating a GA4 account or property, accessing the GA4 admin panel every time and configuring each setting individually can be cumbersome. 
